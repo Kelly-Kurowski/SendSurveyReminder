@@ -4,7 +4,7 @@ import pyautogui
 from datetime import datetime
 
 # Define the phone numbers and the message
-phone_numbers = ["+31 6 28401213"]  # Include country code, e.g., +31 6 12345678
+phone_numbers = ["+31 6 12345678"]  # Include country code, e.g., +31 6 12345678
 message = "Dit is een automatisch gegenereerd bericht: vergeet a.u.b. niet de survey in te vullen vanavond!"
 
 # Get the current time and calculate the time to send the message
